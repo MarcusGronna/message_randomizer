@@ -42,3 +42,5 @@ finalString += thirdPart[randomizer(thirdPart)]
 }
 
 console.log(message_generator(firstPart, secondPart, thirdPart))
+console.log(message_generator(firstPart, secondPart, thirdPart))
+console.log(message_generator(firstPart, secondPart, thirdPart))
